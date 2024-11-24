@@ -1,6 +1,6 @@
-# **Homeyz 🏡**
+# **Homyz 🏡**
 
-**Homeyz** is a modern and intuitive frontend application designed to simplify the real estate browsing experience. With **Homeyz**, users can effortlessly explore properties, filter results by their preferences, and view detailed property information. Whether you're looking for your dream home, a commercial property, or a cozy rental, **Homeyz** offers a seamless experience to help you find the perfect match.
+**Homyz** is a modern and intuitive frontend application designed to simplify the real estate browsing experience. With **Homyz**, users can effortlessly explore properties, filter results by their preferences, and view detailed property information. Whether you're looking for your dream home, a commercial property, or a cozy rental, **Homyz** offers a seamless experience to help you find the perfect match.
 
 ---
 
