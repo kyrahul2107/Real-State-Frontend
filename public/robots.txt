@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myproject-name123-rust.vercel.app/sitemap.xml
